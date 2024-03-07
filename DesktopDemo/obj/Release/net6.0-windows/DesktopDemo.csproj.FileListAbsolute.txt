@@ -1,0 +1,16 @@
+C:\Workarea\DesktopDemo\DesktopDemo\bin\Release\net6.0-windows\DesktopDemo.exe
+C:\Workarea\DesktopDemo\DesktopDemo\bin\Release\net6.0-windows\DesktopDemo.deps.json
+C:\Workarea\DesktopDemo\DesktopDemo\bin\Release\net6.0-windows\DesktopDemo.runtimeconfig.json
+C:\Workarea\DesktopDemo\DesktopDemo\bin\Release\net6.0-windows\DesktopDemo.dll
+C:\Workarea\DesktopDemo\DesktopDemo\bin\Release\net6.0-windows\DesktopDemo.pdb
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.Form1.resources
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.csproj.GenerateResource.cache
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.AssemblyInfoInputs.cache
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.AssemblyInfo.cs
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.csproj.CoreCompileInputs.cache
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.dll
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\refint\DesktopDemo.dll
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.pdb
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\DesktopDemo.genruntimeconfig.cache
+C:\Workarea\DesktopDemo\DesktopDemo\obj\Release\net6.0-windows\ref\DesktopDemo.dll
